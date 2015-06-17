@@ -16,7 +16,7 @@
     <color name="table_text_light">#A6A6A6</color>
     <color name="table_text_header">#636363</color>
     <color name="header_background_start">#ECECEC</color>
-    <color name="header_background_end">#C3C3C3</color>
+    <color name="header_background_end">#B67900</color>
     <color name="header_background_top">#F9F9F9</color>
     <color name="header_background_bottom">#A7A7A7</color>
     <color name="actionbar_background_start">#272727</color>
@@ -24,8 +24,8 @@
     <color name="bootstrap_divider_top">#000000</color>
     <color name="bootstrap_divider_bottom">#5A5A5A</color>
     <color name="main_background_start">#2E2E2E</color>
-    <color name="main_background_end">#2C2C2C</color>
-    <color name="button_background_enabled_start">#1fb6ed</color>
+    <color name="main_background_end">#B67900</color>
+    <color name="button_background_enabled_start">#C28200</color>
     <color name="button_background_enabled_end">#1c9ac8</color>
     <color name="button_background_pressed_start">#f76500</color>
     <color name="button_background_pressed_end">#fb812c</color>
